@@ -9,8 +9,10 @@
     "test-watch": "nodemon --exec 'npm test'"
   },
   "engines": {
-    "node": "6.2.2"
+    "node": "xxxxxxxxx.2.2"
   },
+
+
   "author": "",
   "license": "ISC",
   "dependencies": {
